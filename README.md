@@ -1,6 +1,6 @@
 # Cplusplus_Tutorial_ILC
 
-This is for Professional Studio B ILC.
+This is for Professional Studio B ILC (University Course).
 
 It follows the C++ Tutorial for Beginners - Full Course by freeCodeCamp.org
 
